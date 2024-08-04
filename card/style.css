@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #f4f4f4;
+}
+.world{
+    font-family: sans-serif;
+    background: white;
+    margin: 20px;
+    flex: 3;
+    display: flex;
+    width: 74%;
+}
+main{   
+    flex: 3;
+    margin-left: 15px;
+    padding: 5px;
+    
+}
+aside{
+    background-color: #f8f9f9;
+    flex: 1;
+    padding: 137px;
+    margin-left: 30px;
+
+}
+.card{
+    border: #ffff;
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px #d7dbdd;
+    width: 250px;
+    height: 227px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+
+}
+.cards{
+    display: flex;
+    flex: 3;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+a{
+    background-color: #1a5276;
+    border-radius: 20px;
+    padding: 7px;
+    text-decoration: none;
+    color: #ffff;
+}
